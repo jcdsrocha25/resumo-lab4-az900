@@ -1,2 +1,6 @@
-# resumo-lab4-az900
-"Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab3-az900 na DIO".
+Seguindo a trilha de formação para certificação AZ-900. Tópicos aprendidos durante esse lab3:
+
+Máquinas Virtuais do Azure
+Estrutura do Azure
+Redes
+Funções do Azure
